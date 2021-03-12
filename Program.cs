@@ -17,8 +17,6 @@ namespace Gritador
            Console.ResetColor();
            textoPadrao = Console.ReadLine();
 
-           
-
            Console.ForegroundColor = ConsoleColor.DarkYellow;
            Console.Write("Sua resposta: ");
 
